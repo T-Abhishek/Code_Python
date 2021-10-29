@@ -37,5 +37,3 @@ if __name__ == "__main__" :
 	a = 5; b = 4; c = 3;
 
 	print(countStrings(a, b, c));
-
-	# This code is contributed by AnkThon
